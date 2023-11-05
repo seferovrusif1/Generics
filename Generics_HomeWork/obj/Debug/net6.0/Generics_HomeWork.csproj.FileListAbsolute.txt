@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\bin\Debug\net6.0\Generics_HomeWork.exe
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\bin\Debug\net6.0\Generics_HomeWork.deps.json
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\bin\Debug\net6.0\Generics_HomeWork.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\bin\Debug\net6.0\Generics_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\bin\Debug\net6.0\Generics_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\refint\Generics_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\Generics_HomeWork.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\Generics_HomeWork\Generics_HomeWork\obj\Debug\net6.0\ref\Generics_HomeWork.dll
